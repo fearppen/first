@@ -1,2 +1,2 @@
 from PyQt5 import Qt
-from PyQt5 import QPushButton
+from PyQt5.Qt import QPushButton
